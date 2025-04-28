@@ -14,4 +14,6 @@ backend $ npx prisma migrate dev --name init
 ```
 $ npx create-next-app@latest frontend
 
+frontend $ npx shadcn@latest init
+
 ```
